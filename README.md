@@ -1,1 +1,2 @@
-# flex
+# liff
+Public Liff
